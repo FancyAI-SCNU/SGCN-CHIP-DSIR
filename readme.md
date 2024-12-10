@@ -2,7 +2,7 @@
 ## _Trajectory Prediction with Contrastive Pre-training and Social Rank Fine-Tuning_ [[Paper]](https://link.springer.com/chapter/10.1007/978-981-99-8141-0_40) 
 ### Published ICONIP 2023
 ### Chenyou Fan, Haiqi Jiang, Aimin Huang, and Junjie Hu
-[![Code License](https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg)](./LICENSE.txt) 
+[![Code License](https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg)](./LICENSE) 
 
 ## This is the official code of implementing SGCN-CHIP-DSIR model which is CPU/GPU compatible
 
